@@ -10,11 +10,13 @@ function App() {
       <Box>
         <Flex>
           <Center><Image src='https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true' w='120px' ml='50px' /></Center>
-          <Center pl='750px'>
-            <Button m='0 10px' variant='ghost' colorScheme='white'>   Home  </Button>
-            <Button m='0 10px' variant='ghost' colorScheme='white'>  About  </Button>
-            <Button m='0 10px' variant='ghost' colorScheme='white'>   Help  </Button>
-            <Button m='0 10px' variant='ghost' colorScheme='white'> Account </Button>
+          <Center pl='650px'>
+            <Button variant='ghost' colorScheme='white'>   Home  </Button>
+            <Button variant='ghost' colorScheme='white'>  About US  </Button>
+            <Button variant='ghost' colorScheme='white'>   Blog  </Button>
+            <Button variant='ghost' colorScheme='white'> Contect US </Button>
+            <Button variant='ghost' colorScheme='white'> Course </Button>
+            <Button variant='ghost' colorScheme='white'> Login </Button>
           </Center>
         </Flex>
       </Box>
